@@ -12,4 +12,4 @@
 
 😄 Pronouns: he/him
 
-⚡ Fun fact: I love to type fast and cook new recipes😊
+⚡ Fun fact: I love to cook new recipes😊
