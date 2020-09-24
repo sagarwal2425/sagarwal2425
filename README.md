@@ -6,7 +6,7 @@
 
 😉 I'm looking for full-time opportunities in Software Development starting from May 2021. Do reach out to me if you think I am a good fit.🤜[Resume](https://shubham-agarwal.com/resume/)🤛
 
-📫 How to reach me: [Portfolio](https://www.shubham-agarwal.com/),[LinkedIn](https://www.linkedin.com/in/shubhamagarwal2425/),[Email](mailto:sa2425@njit.edu)
+📫 How to reach me: [Portfolio](https://www.shubham-agarwal.com/), [LinkedIn](https://www.linkedin.com/in/shubhamagarwal2425/), [Email](mailto:sa2425@njit.edu)
 
 🌱 I'm currently exploring Python and Ruby.
 
